@@ -22,9 +22,6 @@ struct SettingsView: View {
     @StateObject var iconSettings: IconSettings = IconSettings()
     @State private var showingIconsView = false
 
-//    @State var audioPlayer: AVAudioPlayer?
-//    @State private var isBackgroundMusicOn = true
-//    @State private var selectedLanguage = "🇬🇧 English"
     @Environment(\.dismiss) var dismiss
     @AppStorage("isDarkMode") private var isDarkMode = true
     var body: some View {
