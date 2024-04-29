@@ -17,7 +17,7 @@ struct SettingsView: View {
     var skyWeatherLink: String = "https://apps.apple.com/tr/app/skyweather-weather-forecast/id6450951376"
     var qrDropLink: String = "https://apps.apple.com/us/app/qr-drop-scan-generate/id6450382749"
     var japsadevLink: String = "https://twitter.com/japsadev"
-//    let languages = ["🇬🇧 English", "🇹🇷 Turkish", "🇫🇷 French", "🇩🇪 German", "🇪🇸 Spanish"]
+
 
     @StateObject var iconSettings: IconSettings = IconSettings()
     @State private var showingIconsView = false
