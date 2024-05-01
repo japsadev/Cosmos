@@ -25,7 +25,7 @@ https://github.com/japsadev/Cosmos-Free-universe-encyclopedia/assets/62521215/68
 * **[Planet Details & Images](https://spaceplace.nasa.gov/)**
 
 ## Download
-Cooming Soon...
+**[App Store](https://apps.apple.com/tr/app/cosmos-our-solar-system/id6480411273)**
 
 ### Contact Us
 sygoktas@outlook.com.tr
